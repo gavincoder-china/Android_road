@@ -1,8 +1,3 @@
-# Android_road
-安卓开发之路（just interest）
-
-
-
 # 安卓入门
 
 ![](https://raw.githubusercontent.com/xunyegege/picgo_repo/master/G%3A%5Cgithub%5Cpicgo_repo20181218134041.png)
@@ -315,6 +310,7 @@ ToggleButton toggleButton;
 ## checkBox 多选框
 
 ```java
+
 public class LinearLayout extends AppCompatActivity  implements CompoundButton.OnCheckedChangeListener {
     CheckBox c1;
     CheckBox c2;
